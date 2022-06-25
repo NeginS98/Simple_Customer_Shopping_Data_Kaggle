@@ -1,0 +1,1 @@
+# Simple_Customer_Shopping_Data_Kaggle
